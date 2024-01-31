@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111337378741",
+    "project_id": "latihan-firebase-45299",
+    "storage_bucket": "latihan-firebase-45299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111337378741:android:c2b0dc6b128315f71cfffc",
+        "android_client_info": {
+          "package_name": "com.dhani.login_register_dan_logout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRHM_5348UiIY1ok4GIb2phDmafro_Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
